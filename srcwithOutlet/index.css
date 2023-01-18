@@ -1,0 +1,13 @@
+.error{
+    position: absolute;
+    color: red;
+    font-size: 1rem;
+}
+input.form-control,input.form-control:focus{
+    background: rgb(199, 223, 219);
+}
+.eye-btn{
+    position: absolute;
+    top:133px;
+    right: 22px;
+}
